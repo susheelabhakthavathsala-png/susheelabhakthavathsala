@@ -33,3 +33,11 @@
 ## Connect with Me
 - LinkedIn: https://www.linkedin.com/in/suzy01/
 - Email: susheela.bhakthavathsala@gmail.com
+
+## Tools & Technologies
+- Python (Pandas, NumPy, Scikit-learn)
+- SQL
+- Power BI
+- Excel
+- Data Visualization (Matplotlib, Seaborn)
+- Jupyter Notebook
